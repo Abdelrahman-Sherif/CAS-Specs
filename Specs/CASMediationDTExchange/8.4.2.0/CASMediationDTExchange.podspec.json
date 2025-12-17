@@ -21,7 +21,7 @@
   "vendored_frameworks": "CASMediationDTExchange.xcframework",
   "dependencies": {
     "Fyber_Marketplace_SDK": [
-      "8.4.2"
+      "8.4.1"
     ],
     "CASMediationIronSource": []
   },
