@@ -21,10 +21,10 @@
   "vendored_frameworks": "CASMediationMintegral.xcframework",
   "dependencies": {
     "MintegralAdSDK": [
-      "8.0.3"
+      "7.7.9"
     ],
     "MintegralAdSDK/BidSplashAd": [
-      "8.0.3"
+      "7.7.9"
     ],
     "CleverAdsSolutions-Base": []
   },
