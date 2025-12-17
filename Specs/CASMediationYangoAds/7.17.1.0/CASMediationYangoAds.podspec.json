@@ -21,7 +21,7 @@
   "vendored_frameworks": "CASMediationYangoAds.xcframework",
   "dependencies": {
     "YandexMobileAds": [
-      "7.17.1"
+      "7.17.0"
     ],
     "CASMediationIronSource": []
   },
