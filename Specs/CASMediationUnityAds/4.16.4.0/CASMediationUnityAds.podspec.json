@@ -21,7 +21,7 @@
   "vendored_frameworks": "CASMediationUnityAds.xcframework",
   "dependencies": {
     "UnityAds": [
-      "4.16.4"
+      "4.16.3"
     ],
     "CASMediationIronSource": []
   },
